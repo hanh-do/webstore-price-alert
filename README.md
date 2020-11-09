@@ -7,3 +7,4 @@ Front end: HTML, CSS, Bootstrap<br />
 Database: MongoDB<br />
 Framework: Flask<br />
 
+![alt text](https://github.com/hoghanhdo/webstore-price-alert/blob/master/homepage.png?raw=true)
