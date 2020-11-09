@@ -6,3 +6,6 @@ Written in: Python <br />
 Front end: HTML, CSS, Bootstrap<br />
 Database: MongoDB<br />
 Framework: Flask<br />
+<br />
+
+https://github.com/hoghanhdo/webstore-price-alert/issues/1#issue-739088210
